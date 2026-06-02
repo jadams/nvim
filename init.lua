@@ -27,3 +27,4 @@ require "lazy_setup"
 require "polish"
 
 vim.opt.mouse = ""
+vim.opt.clipboard = ""
